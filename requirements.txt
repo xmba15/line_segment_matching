@@ -1,0 +1,4 @@
+opencv-python==4.1.2.30
+opencv-contrib-python==4.1.2.30
+scikit-image==0.21.0
+loguru==0.7.0
